@@ -655,7 +655,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 7823190045287402080, guid: 1514d29fd41cbe44c8ec24411452d8e5, type: 3}
-  spawnRate: 5
+  spawnRate: 2.5
   heightOffset: 7
 --- !u!4 &457947532
 Transform:
